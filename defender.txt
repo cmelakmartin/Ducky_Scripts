@@ -1,3 +1,4 @@
+REM Win Defender switch off
 REM initialisation
 DELAY 2000
 ESCAPE
